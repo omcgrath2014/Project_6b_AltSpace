@@ -1,0 +1,231 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 5160,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5154,
+      "max": [
+        27.0,
+        66.13700103759766,
+        73.0
+      ],
+      "min": [
+        -10.0,
+        15.0,
+        -56.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5154,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5154,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 5154,
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "generator": "Microsoft GLTF Exporter 2.4.2.11",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 10320,
+      "byteOffset": 0,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 61848,
+      "byteOffset": 10320,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 61848,
+      "byteOffset": 72168,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 41232,
+      "byteOffset": 134016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 82464,
+      "byteOffset": 175248,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 257716,
+      "uri": "satelite .bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "image0.png"
+    },
+    {
+      "uri": "image1.png"
+    },
+    {
+      "uri": "image2.png"
+    },
+    {
+      "uri": "image3.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseTexture": {
+            "index": 0
+          },
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "extras": {
+        "MSFT_sRGBFactors": false
+      },
+      "name": "59",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "mesh_id28",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3,
+            "COLOR_0": 4
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "root"
+    },
+    {
+      "mesh": 0,
+      "name": "node_id27",
+      "rotation": [
+        0.2739957571029663,
+        0.5733813047409058,
+        0.1948322057723999,
+        0.7471283078193665
+      ],
+      "scale": [
+        0.005656854249536991,
+        0.0056568533182144165,
+        0.005656855646520853
+      ],
+      "translation": [
+        -0.017475014552474022,
+        -0.21456174552440643,
+        0.21697580814361572
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9985
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "texture354",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "texture358",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "59_bc",
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "name": "59_mr",
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

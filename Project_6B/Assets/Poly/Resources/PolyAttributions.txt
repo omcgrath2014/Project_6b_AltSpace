@@ -1,0 +1,19 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Astronaut
+Author: Poly by Google
+URL: https://poly.google.com/view/dLHpzNdygsg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: satelite
+Author: Axel Javier Garrido Barrera
+URL: https://poly.google.com/view/1nlyE-3ISlS
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Space Shuttle Orbiter
+Author: Zoe XR
+URL: https://poly.google.com/view/bIAMfx1bHVY
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
